@@ -1,2 +1,5 @@
-# Sentiment-Analysis
-Exploration of various Neural Networks for sentiment analysis on a Twitter dataset.
+# Sentiment Analysis on a Twitter dataset
+
+The aim is to dive into Natural Language Processing in the form of Sentiment Analysis. 
+
+(c) Mia Müßig
